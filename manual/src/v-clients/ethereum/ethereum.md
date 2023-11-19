@@ -16,7 +16,7 @@ eth_client.load(url: eth_url, secret: secret)!
 
 ## Convert TFT on Ethereum to TFT on Stellar
 
-The Ethereum  clients provides an easy way to convert [TFT on Ethereum](https://github.com/threefoldfoundation/tft/tree/main/ethereum) to  [TFT on Stellar](https://github.com/threefoldfoundation/tft-stellar) using the Stellar-Ethereum bridge.
+The Ethereum clients provides an easy way to convert [TFT on Ethereum](https://github.com/threefoldfoundation/tft/tree/main/ethereum) to  [TFT on Stellar](https://github.com/threefoldfoundation/tft-stellar) using the Stellar-Ethereum bridge.
 
 The `amount` parameter is a string in decimal format of the number of TFT's to convert. Keep in mind that a conversion fee of 1 TFT will be deducted so make sure the amount is larger than that.
 
